@@ -5,7 +5,7 @@
 
 # MongoDB Atlas Configuration
 
-**1.** You must select an account, in my case I use the GitHub option since it connects directly to my repositories.
+1. You must select an account, in my case I use the GitHub option since it connects directly to my repositories.
 
 ![Screenshot 2024-10-28 154446](https://github.com/user-attachments/assets/3b9f0045-ca53-4b6d-a4ee-9d8e79e88da6)
 
