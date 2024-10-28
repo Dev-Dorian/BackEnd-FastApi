@@ -31,6 +31,11 @@ Set up the database, local mongodb or in the cloud using mongodb atlas
 
 ![Screenshot 2024-10-28 144146](https://github.com/user-attachments/assets/0f4933af-37bf-42d0-a3b6-5d01cd6cc2ec)
 
+5. Specify the following as the Start Command.
+
+    ```shell
+    uvicorn main:app --host 0.0.0.0 --port $PORT
+    ```
 ![Screenshot 2024-10-28 144409](https://github.com/user-attachments/assets/5679487d-fe47-4798-9f1c-6b1336a4f15e)
 
 5. You can select the payment method you want to use, in my case I will use the free option.
