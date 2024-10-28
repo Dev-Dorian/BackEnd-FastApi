@@ -5,11 +5,13 @@ Render
 
 Clone the project
 
-Set up the database, local mongodb or in the cloud using mongodb atlas
+Set up the database, local mongodb or in the cloud using mongodb atlas.
+
+In the client.py file you will find the database configuration, which has two connections, which you must choose one:
+1. The local database must comment the remote database line
+2. If you use the remote database you must comment the local database line, and you must also add the user and password established in the MondoDB Atlas configuration.
 
 ![Screenshot 2024-10-28 151121](https://github.com/user-attachments/assets/14bcca59-8422-43ef-911f-8f3012529d90)
-
-[CLIENT CONFIGURATION IMAGE]
 
 # Render
 
