@@ -16,18 +16,18 @@ class User(BaseModel):
     age: int
 
 
-users_list = [User(id=1, name="Dorian", surname="DorianDEV", url="https://dev-dorian.com/", age=29),
+users_list = [User(id=1, name="Dorian", surname="DorianDEV", url="https://doriandv.com/", age=29),
               User(id=2, name="Carlos", surname="CarlosDEV",
-                   url="https://dev-carlos.com/", age=22),
-              User(id=3, name="Maria", surname="MariaDEV", url="https://dev-maria.com/", age=30)]
+                   url="https://carlosdev.com/", age=22),
+              User(id=3, name="Maria", surname="MariaDEV", url="https://mariadev.com/", age=30)]
 
 
 @router.get("/usersjson")
 async def usersjson():
-    return [{"name": "Dorian", "surname": "DorianDEV", "url": "https://dev-dorian.com/", "age": 29},
+    return [{"name": "Dorian", "surname": "DorianDEV", "url": "https://doriandev.com/", "age": 29},
             {"name": "Carlos", "surname": "CarlosDEV",
-                "url": "https://dev-carlos.com/", "age": 22},
-            {"name": "Maria", "surname": "MariaDEV", "url": "https://dev-maria.com/", "age": 30}]
+                "url": "https://carlosdev.com/", "age": 22},
+            {"name": "Maria", "surname": "MariaDEV", "url": "https://mariadev.com/", "age": 30}]
 
 
 @router.get("/users")

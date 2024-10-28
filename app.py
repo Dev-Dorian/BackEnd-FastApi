@@ -32,7 +32,7 @@ async def root():
 
 @app.get("/url")
 async def url():
-    return {"url": "https://mouredev.com/python"}
+    return {"url": "https://carlosdev.com/python"}
 
 # Start the server: fastapi dev app.py
 # Stop the server: CTRL + C

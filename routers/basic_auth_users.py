@@ -24,14 +24,14 @@ users_db = {
     "dorian": {
         "username": "doriandev",
         "full_name": "Dorian Hidalgo",
-        "email": "dorian@hotmail.com",
+        "email": "doriandev@hotmail.com",
         "disabled": False,
         "password": "12345"
     },
     "mario": {
         "username": "mariodev",
         "full_name": "Mario Chacon",
-        "email": "mario@hotmail.com",
+        "email": "mariodev@hotmail.com",
         "disabled": True,
         "password": "12345"
     },

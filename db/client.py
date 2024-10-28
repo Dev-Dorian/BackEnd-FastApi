@@ -12,4 +12,4 @@ from pymongo import MongoClient
 
 # Remote Database
 db_client = MongoClient(
-    "mongodb+srv://dorianhl5229:12345@cluster0.qni8zkl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0").testUsers
+    "mongodb+srv://USERNAME:PASSWORD@cluster0.qni8zkl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0").testUsers

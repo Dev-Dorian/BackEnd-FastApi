@@ -33,14 +33,14 @@ users_db = {
     "doriandev": {
         "username": "doriandev",
         "full_name": "Dorian Hidalgo",
-        "email": "dorian@hotmail.com",
+        "email": "doriandev@hotmail.com",
         "disabled": False,
         "password": "$2a$12$jy97LHOR9EKTiruOgl4n..cmJ8SiDVQBrjHQJds3OKGcV03y1GrKa"
     },
     "mariodev": {
         "username": "mariodev",
         "full_name": "Mario Chacon",
-        "email": "mario@hotmail.com",
+        "email": "mariodev@hotmail.com",
         "disabled": True,
         "password": "$2a$12$jy97LHOR9EKTiruOgl4n..cmJ8SiDVQBrjHQJds3OKGcV03y1GrKa"
     },
