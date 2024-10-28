@@ -5,15 +5,15 @@
 
 # MongoDB Atlas Configuration
 
-You must select an account, in my case I use the GitHub option since it connects directly to my repositories.
+**1.** You must select an account, in my case I use the GitHub option since it connects directly to my repositories.
 
 ![Screenshot 2024-10-28 154446](https://github.com/user-attachments/assets/3b9f0045-ca53-4b6d-a4ee-9d8e79e88da6)
 
-To get the connection to the remote MongoDB Atlas database you must go to "Connect" and click on "Connect for your application".
+2. To get the connection to the remote MongoDB Atlas database you must go to "Connect" and click on "Connect for your application".
 
 ![Screenshot 2024-10-28 154727](https://github.com/user-attachments/assets/e1e3c110-1be5-467c-8d50-8e705555dd39)
 
-You must enter the user and password, copy the entire line and paste it into the client.py file of the project
+3. You must enter the user and password, copy the entire line and paste it into the client.py file of the project
 
 ![Screenshot 2024-10-28 155645](https://github.com/user-attachments/assets/077f12b9-69cb-46a4-9f1d-caa4b15c06b4)
 
