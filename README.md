@@ -7,6 +7,8 @@ Clone the project
 
 Set up the database, local mongodb or in the cloud using mongodb atlas
 
+![Screenshot 2024-10-28 150508](https://github.com/user-attachments/assets/f1221cee-ba9c-4c34-8943-fb2fff62cf2e)
+
 [CLIENT CONFIGURATION IMAGE]
 
 # Render
