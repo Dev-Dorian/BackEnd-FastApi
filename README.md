@@ -1,6 +1,7 @@
 
 # Python + FastAPI + MongoDB + Render
 
+![fastapi](https://github.com/user-attachments/assets/3cbfe5c6-a0e2-4d4c-88e7-47b49f059d26)
 
 # MongoDB Atlas Configuration
 
@@ -32,8 +33,6 @@ In the client.py file you will find the database configuration, which has two co
 ![Screenshot 2024-10-28 151121](https://github.com/user-attachments/assets/14bcca59-8422-43ef-911f-8f3012529d90)
 
 # Render Configuration
-
-![fastapi](https://github.com/user-attachments/assets/3cbfe5c6-a0e2-4d4c-88e7-47b49f059d26)
 
 1. Login to render.
 
