@@ -10,6 +10,7 @@ Set up the database, local mongodb or in the cloud using mongodb atlas
 [CLIENT CONFIGURATION IMAGE]
 
 # Render
+![fastapi](https://github.com/user-attachments/assets/3cbfe5c6-a0e2-4d4c-88e7-47b49f059d26)
 
 Login to render
 
