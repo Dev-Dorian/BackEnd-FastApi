@@ -1,7 +1,7 @@
 gunicorn
 uvicorn
 fastapi
-freeze 
+pip
 pyjwt
 python-jose
 passlib
