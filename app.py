@@ -1,7 +1,7 @@
 # Oficial Documentation: https://fastapi.tiangolo.com/es/
 
 # Install FastAPI: pip install "fastapi[all]"
-
+import uvicorn
 from fastapi import FastAPI
 from routers import products, users, basic_auth_users, jwt_auth_users, users_db
 from fastapi.staticfiles import StaticFiles
@@ -38,3 +38,5 @@ async def url():
 
 # Documentation with Swagger: http://127.0.0.1:8000/docs
 # Documentation with Redocly: http://127.0.0.1:8000/redoc
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000)
