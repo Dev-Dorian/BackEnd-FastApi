@@ -33,8 +33,8 @@ async def root():
 async def url():
     return {"url": "https://mouredev.com/python"}
 
-# Start the server: fastapi dev main.py
-# Stop the server: CTRL+C
+# Start the server: fastapi dev app.py
+# Stop the server: CTRL + C
 
 # Documentation with Swagger: http://127.0.0.1:8000/docs
 # Documentation with Redocly: http://127.0.0.1:8000/redoc

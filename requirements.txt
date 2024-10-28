@@ -1,3 +1,4 @@
+gunicorn
 fastapi
 pyjwt
 python-jose
