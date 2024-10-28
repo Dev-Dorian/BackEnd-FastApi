@@ -1,6 +1,7 @@
 # Oficial Documentation: https://fastapi.tiangolo.com/es/
 
 # Install FastAPI: pip install "fastapi[all]"
+
 import uvicorn
 from fastapi import FastAPI
 from routers import products, users, basic_auth_users, jwt_auth_users, users_db
